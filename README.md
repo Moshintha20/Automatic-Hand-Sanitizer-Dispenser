@@ -1,6 +1,6 @@
 # Automatic-Hand-Sanitizer-Dispenser
 
-In response to the criƟcal challenges posed by tradiƟonal hand saniƟzaƟon methods, we proudly present 
+# In response to the criƟcal challenges posed by tradiƟonal hand saniƟzaƟon methods, we proudly present 
 our revoluƟonary Touchless AutomaƟc Hand SaniƟzer Dispenser. As the world faced unprecedented health 
 concerns, the importance of maintaining opƟmal hand hygiene became evident. ConvenƟonal hand 
 saniƟzer dispensers oŌen involved physical contact, leading to potenƟal cross-contaminaƟon risks and 
