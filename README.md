@@ -10,5 +10,5 @@ revolutionize hand sanitization practices. Emphasizing both safety and convenien
 dispenser eliminates the need for direct contact, seƫting a new standard for hygienic hand sanitization. 
 Users can now enjoy a seamless and efficient experience without compromising their well-being. 
 
-![IMG_6029](https://github.com/Moshintha20/Automatic-Hand-Sanitizer-Dispenser/assets/124574829/ce489c4e-d490-4b0f-b04a-7d52ca861e86)
+![IMG_6029](https://github.com/Moshintha20/Automatic-Hand-Sanitizer-Dispenser/assets/124574829/ce489c4e-d490-4b0f-b04a-7d52ca861e86 = 400 x 400)
 
