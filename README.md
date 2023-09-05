@@ -9,3 +9,6 @@ The Touchless Automatic Hand Sanitizer Dispenser was conceived to address these 
 revolutionize hand sanitization practices. Emphasizing both safety and convenience, this innovative 
 dispenser eliminates the need for direct contact, seƫting a new standard for hygienic hand sanitization. 
 Users can now enjoy a seamless and efficient experience without compromising their well-being. 
+
+![IMG_6030](https://github.com/Moshintha20/Automatic-Hand-Sanitizer-Dispenser/assets/124574829/071f02d5-0c46-4424-8d89-41d101efb7f8)
+
