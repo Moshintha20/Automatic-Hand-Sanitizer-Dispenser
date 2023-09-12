@@ -11,7 +11,7 @@ dispenser eliminates the need for direct contact, seƫting a new standard for hy
 Users can now enjoy a seamless and efficient experience without compromising their well-being. 
 
 <p align="center">
-![PCB image 1](https://github.com/Moshintha20/Automatic-Hand-Sanitizer-Dispenser/blob/main/PCB%20image%201.jpeg)
+<img src = https://github.com/Moshintha20/Automatic-Hand-Sanitizer-Dispenser/blob/main/Product.jpg>
 </p>
 
 
